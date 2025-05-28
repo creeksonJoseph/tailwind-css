@@ -15,7 +15,23 @@ a {
 }
 section {
   padding: 20px;
+  text-align: center;
 }
 p {
   font-family: "Times New Roman", Times, serif;
+  padding: 20px;
+}
+img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+footer {
+  color: rgb(0, 0, 0);
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
 }
